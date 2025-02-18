@@ -10,8 +10,8 @@ This repository contains supplementary files for the original manuscript entitle
 
 ## Repository Content
 This repository hosts database literature search files used in our study. The files correspond to the specific databases consulted during our research:
-- **Rheumatoid Arthritis Trials**
 - **Psoriatic Arthritis Trials**
+- **Chronic Plaque Psoriasis Trials**
 
 In `database searches` each folder contains the respective search strategy for EMBASE, Cochrane CENTRAL and Medline. 
 
