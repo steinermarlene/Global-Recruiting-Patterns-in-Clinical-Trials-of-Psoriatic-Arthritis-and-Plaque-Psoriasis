@@ -1,4 +1,4 @@
-# Supplementary Files for "Global Recruiting Patterns Affect Placebo Response Rates In Clinical Trials of Immune Mediated Inflammatory Diseases" 
+# Supplementary Files for "Global Recruiting Patterns Affect Placebo Response Rates In Clinical Trials of Psoriatic Arthritis and Plaque Psoriasis" 
 Authors: Andreas Kerschbaumer&sup1;; Marlene Steiner&sup1;; Suzanne Khalili&sup1;; Azad Shehab&sup1;; Alexander Jordanov&sup1;; Brigitte Wildner&sup2;; Magdalena Maad&sup3;; Josef S. Smolen&sup1;; Daniel Aletaha&sup1; 
 
 &sup1; Department of Medicine III, Division of Rheumatology, Medical University of Vienna, Vienna, Austria; 
