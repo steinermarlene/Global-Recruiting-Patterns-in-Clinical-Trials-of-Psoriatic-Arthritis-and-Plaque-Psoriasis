@@ -1,0 +1,1 @@
+# Global-Recruiting-Patterns-in-Clinical-Trials-of-Psoriatic-Arthritis-and-Plaque-Psoriasis
