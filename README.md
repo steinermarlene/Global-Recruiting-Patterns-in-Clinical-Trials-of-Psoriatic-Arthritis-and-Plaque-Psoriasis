@@ -13,10 +13,10 @@ This repository hosts database literature search files used in our study. The fi
 - **Rheumatoid Arthritis Trials**
 - **Psoriatic Arthritis Trials**
 
-Each folder contains the respective search strategy for EMBASE, Cochrane CENTRAL and Medline.
+In `database searches` each folder contains the respective search strategy for EMBASE, Cochrane CENTRAL and Medline. 
 
 ### How to Use These Files
-- **Explore individual disease folders**: Each disease-specific folder contains the search strategy for each database we searched.
+- **Explore individual disease folders**
 - **Review methodology details**: For insight into our search strategy and inclusion criteria, please refer to the `Methods` section of our manuscript and the `Supplementary appendix`.
 
 ## Citation
